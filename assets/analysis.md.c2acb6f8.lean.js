@@ -1,0 +1,1 @@
+import{o as a,c as e,a as s}from"./app.2ff5982c.js";const i='{"title":"Analysis","description":"","frontmatter":{},"headers":[{"level":2,"title":"Parts parsing to database","slug":"parts-parsing-to-database"}],"relativePath":"analysis.md","lastUpdated":1630960199279}',t={},n=[s('',6)];t.render=function(s,i,t,l,o,r){return a(),e("div",null,n)};export{i as __pageData,t as default};
