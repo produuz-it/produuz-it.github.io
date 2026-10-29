@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-label="Plan of a building with two identical panels, one on the south facade and one on the north facade, each with its own placement, both pointing to the same design."><rect x="0" y="0" width="900" height="330" fill="#ffffff"/>
+  <g font-family="Roboto, Arial, Helvetica, sans-serif" fill="#231F20" font-size="13">
+    <rect x="60" y="60" width="340" height="200" fill="none" stroke="#cfc8d4" stroke-width="14"/>
+    <text x="230" y="166" text-anchor="middle" fill="#5b5560">plan, seen from above</text>
+    <!-- panel 1, south -->
+    <rect x="110" y="253" width="120" height="14" fill="#f07e00" stroke="#ea590c"/>
+    <line x1="120" y1="236" x2="196" y2="236" stroke="#5c257b" stroke-width="2.5"/><path d="M208 236 L196 230 L196 242 Z" fill="#5c257b"/>
+    <text x="214" y="241" font-family="'Roboto Mono', Consolas, monospace" font-size="12" fill="#5c257b">X</text>
+    <line x1="170" y1="270" x2="170" y2="296" stroke="#2e7d32" stroke-width="2.5"/><path d="M170 306 L164 294 L176 294 Z" fill="#2e7d32"/>
+    <text x="180" y="304" fill="#2e7d32" font-size="12">front</text>
+    <text x="110" y="226" font-weight="700">unit 1</text>
+    <!-- panel 2, north -->
+    <rect x="230" y="53" width="120" height="14" fill="#f07e00" stroke="#ea590c"/>
+    <line x1="340" y1="84" x2="264" y2="84" stroke="#5c257b" stroke-width="2.5"/><path d="M252 84 L264 78 L264 90 Z" fill="#5c257b"/>
+    <text x="238" y="89" text-anchor="end" font-family="'Roboto Mono', Consolas, monospace" font-size="12" fill="#5c257b">X</text>
+    <line x1="290" y1="50" x2="290" y2="24" stroke="#2e7d32" stroke-width="2.5"/><path d="M290 14 L284 26 L296 26 Z" fill="#2e7d32"/>
+    <text x="300" y="24" fill="#2e7d32" font-size="12">front</text>
+    <text x="350" y="104" text-anchor="end" font-weight="700">unit 2</text>
+    <!-- links -->
+    <path d="M232 262 C 400 300, 470 230, 548 200" fill="none" stroke="#5c257b" stroke-width="2" stroke-dasharray="6 4"/>
+    <path d="M558 196 L545 194 L549 206 Z" fill="#5c257b"/>
+    <text x="470" y="290" text-anchor="middle" fill="#5c257b" font-size="12">placement 1</text>
+    <path d="M352 60 C 450 50, 480 110, 548 130" fill="none" stroke="#5c257b" stroke-width="2" stroke-dasharray="6 4"/>
+    <path d="M558 133 L546 126 L545 138 Z" fill="#5c257b"/>
+    <text x="456" y="54" text-anchor="middle" fill="#5c257b" font-size="12">placement 2</text>
+    <!-- design card -->
+    <rect x="560" y="96" width="310" height="140" rx="12" fill="#fff4ec" stroke="#ea590c"/>
+    <text x="580" y="126" font-weight="800" fill="#ea590c">One design</text>
+    <text x="580" y="152">one set of parts in the panel frame</text>
+    <text x="580" y="176" fill="#5b5560">built the same way for both units</text>
+    <text x="580" y="210" font-family="'Roboto Mono', Consolas, monospace" font-size="12">2 units · 2 placements</text>
+  </g>
+</svg>

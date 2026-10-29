@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" width="900" height="330" role="img" aria-label="The Panel Designer exports a detail IFC with one assembly per panel and roles, zones, part numbers, phases and batches on every part. produuz.it reads it into the 3D viewer, drawings, part lists, machine files and production counts.">
+<rect x="0" y="0" width="900" height="330" fill="#ffffff"/>
+<g font-family="Roboto, Arial, Helvetica, sans-serif" fill="#231F20" font-size="13">
+  <rect x="20" y="40" width="230" height="250" rx="14" fill="#5c257b"/>
+  <text x="135" y="74" text-anchor="middle" font-weight="800" font-size="16" fill="#ffffff">Panel Designer</text>
+  <text x="135" y="98" text-anchor="middle" fill="#ffffff" opacity=".85">the panels in the building</text>
+  <g fill="#ffffff">
+    <text x="44" y="140">architect's model</text>
+    <text x="44" y="168">framing recipes</text>
+    <text x="44" y="196">outside face detected</text>
+    <text x="44" y="224">storeys and positions</text>
+    <text x="44" y="252">phases and batches</text>
+  </g>
+  <path d="M256 165 L318 165" stroke="#ea590c" stroke-width="3"/><path d="M330 165 L316 157 L316 173 Z" fill="#ea590c"/>
+  <rect x="336" y="40" width="228" height="250" rx="14" fill="#fff4ec" stroke="#ea590c" stroke-width="1.5"/>
+  <text x="450" y="74" text-anchor="middle" font-weight="800" font-size="16" fill="#ea590c">Detail IFC</text>
+  <text x="450" y="98" text-anchor="middle" fill="#5b5560">one assembly per panel</text>
+  <g font-family="'Roboto Mono', Consolas, monospace" font-size="12">
+    <text x="360" y="140">Role</text><text x="460" y="140" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="13" fill="#5b5560">stud, sheet…</text>
+    <text x="360" y="168">Zone</text><text x="460" y="168" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="13" fill="#5b5560">layer</text>
+    <text x="360" y="196">PartNumber</text><text x="460" y="196" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="13" fill="#5b5560">reference</text>
+    <text x="360" y="224">Phase, Batch</text><text x="460" y="224" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="13" fill="#5b5560">planning</text>
+    <text x="360" y="252">GlobalId</text><text x="460" y="252" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="13" fill="#5b5560">kept on export</text>
+  </g>
+  <path d="M570 165 L632 165" stroke="#ea590c" stroke-width="3"/><path d="M644 165 L630 157 L630 173 Z" fill="#ea590c"/>
+  <rect x="650" y="40" width="230" height="250" rx="14" fill="#ea590c"/>
+  <text x="765" y="74" text-anchor="middle" font-weight="800" font-size="16">produuz.it</text>
+  <text x="765" y="98" text-anchor="middle" opacity=".85">the panels in the factory</text>
+  <g>
+    <text x="674" y="140">3D viewer, front and back</text>
+    <text x="674" y="168">panel and part drawings</text>
+    <text x="674" y="196">part lists per zone</text>
+    <text x="674" y="224">machine files</text>
+    <text x="674" y="252">production counts</text>
+  </g>
+  <text x="450" y="318" text-anchor="middle" fill="#5b5560" font-size="12">Every part arrives with its category, zone and reference: no renaming, no manual zones.</text>
+</g>
+</svg>
