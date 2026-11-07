@@ -1,0 +1,42 @@
+{
+  "name": "BTLx starter",
+  "setup": {
+    "plate": [
+      {"prop_key": "Designation", "match": "contains", "value": "OSB"},
+      {"prop_key": "Designation", "match": "contains", "value": "Gypsum"},
+      {"prop_key": "Designation", "match": "contains", "value": "Plywood"}
+    ],
+    "batten": [
+      {"prop_key": "Designation", "match": "contains", "value": "Batten"}
+    ],
+    "isolated_area": [
+      {"prop_key": "Designation", "match": "contains", "value": "Insulation"}
+    ],
+    "hidden_material": [
+      {"prop_key": "Designation", "match": "contains", "value": "Foil"}
+    ]
+  },
+  "props": {
+    "material": ["Material", "TimberGrade"],
+    "weight": ["Weight"],
+    "comment": ["Comment"],
+    "nail_tool_id": ["NailToolID"]
+  },
+  "wood_setup": {},
+  "wood_props": {},
+  "steel_setup": {},
+  "steel_props": {},
+  "concrete_setup": {},
+  "concrete_props": {},
+  "custom_setup": {},
+  "custom_props": {},
+  "custom_branches": [],
+  "part_classes": [],
+  "level_setup": {
+    "positive_zone": [],
+    "negative_zone": []
+  },
+  "level_props": {},
+  "project_setup": {},
+  "project_props": {}
+}
